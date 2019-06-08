@@ -1,7 +1,7 @@
 # DataVizResources
 Data Visualization resources from "Story Telling with Data"
 
-•	 Eager Eyes (eagereyes.org, Robert Kosara): Thoughtful content on data visualization and visual storytelling.
+•	 Eager Eyes (https://eagereyes.org, Robert Kosara): Thoughtful content on data visualization and visual storytelling.
 
 •	 FiveThirtyEight’s Data Lab (fivethirtyeight.com/datalab, various authors): I like their typically minimalist graphing style on a large range of news and current events topics.
 
