@@ -1,4 +1,4 @@
-# DataVizResources1
+# DataVizResources
 Data Visualization resources from "Story Telling with Data"
 
 •	 Eager Eyes (eagereyes.org, Robert Kosara): Thoughtful content on data visualization and visual storytelling.
