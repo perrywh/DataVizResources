@@ -25,3 +25,8 @@ presentations and presenting data.
 * VizWiz (https://vizwiz.blogspot.com, Andy Kriebel): Data visualization best practices, methods for improving existing work, and tips and tricks for using Tableau Software.
 
 * storytelling with data (https://storytellingwithdata.com): My blog focuses on communicating effectively with data and contains many examples, visual makeovers, and ongoing dialogue
+
+#Fav Tableau Author
+* John Mathis (https://public.tableau.com/profile/johnmathis#!/)
+* Meningitis Research Foundation (https://public.tableau.com/profile/meningitis.research.foundation#!/)
+* David Pires (https://public.tableau.com/profile/david.pires#!/)
