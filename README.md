@@ -1,3 +1,6 @@
+# Regex
+* [RegexOne](https://regexone.com/) 
+
 # DataVizResources
 Data Visualization resources from "Story Telling with Data"
 
