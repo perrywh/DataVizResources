@@ -1,7 +1,6 @@
 # Regex
 * [RegexOne](https://regexone.com/): Learn Regular Expressions with simple, interactive exercises.
 * [Regexr](https://regexr.com/): Visualize Regular Expressions
-* [Beginner's tutorial for Regex in Python](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/)
 
 # DataViz
 Data Visualization resources from "Story Telling with Data"
