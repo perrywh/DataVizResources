@@ -1,5 +1,5 @@
 # Regex
-* [RegexOne](https://regexone.com/): Learn Regular Expressions with simple, interactive exercises.
+* [RegexOne](https://regexone.com/references/python): Learn Regular Expressions with simple, interactive exercises.
 * [Regexr](https://regexr.com/): Visualize Regular Expressions
 
 # DataViz
