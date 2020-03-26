@@ -1,5 +1,6 @@
 # Regex
-* [RegexOne](https://regexone.com/) 
+* [RegexOne](https://regexone.com/): Learn Regular Expressions with simple, interactive exercises.
+* [Regexr](https://regexr.com/): Visualize Regular Expressions
 
 # DataVizResources
 Data Visualization resources from "Story Telling with Data"
