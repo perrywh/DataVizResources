@@ -19,3 +19,6 @@ presentations and presenting data.
 * [VizWiz](https://vizwiz.blogspot.com) (Andy Kriebel): Data visualization best practices, methods for improving existing work, and tips and tricks for using Tableau Software.
 * [Storytelling with Data](https://storytellingwithdata.com) (Cole Nussbaumer Knaflic): Knaflic's blog focuses on communicating effectively with data and contains many examples, visual makeovers, and ongoing dialogue.
 
+# Insteresting Links
+* [CS472: Data Science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0)
+
