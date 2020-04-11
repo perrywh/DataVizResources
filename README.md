@@ -1,6 +1,12 @@
+
+
+
 # Regex
 * [RegexOne](https://regexone.com/references/python): Learn Regular Expressions with simple, interactive exercises.
 * [Regexr](https://regexr.com/): Visualize Regular Expressions
+
+# CSS
+* [CSS Font Stack](https://www.cssfontstack.com)
 
 # DataViz
 Data Visualization resources from "Story Telling with Data"
