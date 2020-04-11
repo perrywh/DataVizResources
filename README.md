@@ -9,7 +9,7 @@
 * [CSS Font Stack](https://www.cssfontstack.com)
 * [Google Fonts](https://fonts.google.com/)
 * [lorem ipsum generator](https://loremipsumgenerator.com)
-* [lorem ipsum generator](https://lorem-ipsum.perbang.dk)
+* [lorem ipsum generator](lorem-ipsum.perbang.dk)
 
 
 # DataViz
