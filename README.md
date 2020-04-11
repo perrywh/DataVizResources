@@ -9,6 +9,7 @@
 * [CSS Font Stack](https://www.cssfontstack.com)
 * [Google Fonts](https://fonts.google.com/)
 * [lorem ipsum generator](https://loremipsumgenerator.com)
+* [vector icons](https://www.flaticon.com)
 
 
 # DataViz
