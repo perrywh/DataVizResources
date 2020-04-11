@@ -7,6 +7,7 @@
 
 # CSS
 * [CSS Font Stack](https://www.cssfontstack.com)
+* [Google Fonts](https://fonts.google.com/)
 
 # DataViz
 Data Visualization resources from "Story Telling with Data"
