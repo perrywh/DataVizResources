@@ -10,6 +10,7 @@
 * [Google Fonts](https://fonts.google.com/)
 * [lorem ipsum generator](https://loremipsumgenerator.com)
 * [vector icons](https://www.flaticon.com)
+* [animated gifs](https://giphy.com)
 
 
 # DataViz
