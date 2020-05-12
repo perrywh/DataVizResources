@@ -13,6 +13,8 @@
 * [animated gifs](https://giphy.com)
 * [CSS button creator](https://cssbuttoncreator.com/)
 
+# Icons
+* [fontawesome](https://fontawesome.com/icons?d=gallery)
 
 # DataViz
 Data Visualization resources from "Story Telling with Data"
