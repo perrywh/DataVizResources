@@ -16,6 +16,9 @@
 # Icons
 * [fontawesome](https://fontawesome.com/icons?d=gallery)
 
+# Bootstrap
+* [bootsnipp](https://bootsnipp.com/): Bootstrap element gallery 
+
 # DataViz
 Data Visualization resources from "Story Telling with Data"
 
