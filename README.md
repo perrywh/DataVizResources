@@ -19,6 +19,9 @@
 # Bootstrap
 * [bootsnipp](https://bootsnipp.com/): Bootstrap element gallery 
 
+# JS
+* [lodash](https://lodash.com/): JavaScript utility library
+
 # DataViz
 Data Visualization resources from "Story Telling with Data"
 
