@@ -17,7 +17,7 @@
 * [fontawesome](https://fontawesome.com/icons?d=gallery)
 
 # drawing
-* [diagrams] (draw.io)
+* [diagrams](draw.io)
 
 # Bootstrap
 * [bootsnipp](https://bootsnipp.com/): Bootstrap element gallery 
