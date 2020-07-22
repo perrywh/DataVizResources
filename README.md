@@ -15,12 +15,12 @@
 
 # Icons
 * [fontawesome](https://fontawesome.com/icons?d=gallery)
-* [icons8] (https://icons8.com)
-* [vecteezy.com] (https://vecteezy.com)
+* [icons8](https://icons8.com)
+* [vecteezy](https://vecteezy.com)
 
 # drawing / designing
 * [diagrams - draw.io](https://draw.io)
-* [canva] (https://www.canva.com)
+* [canva](https://www.canva.com)
 
 # Bootstrap
 * [bootsnipp](https://bootsnipp.com/): Bootstrap element gallery 
