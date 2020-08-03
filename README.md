@@ -48,4 +48,5 @@ presentations and presenting data.
 
 # Insteresting Links
 * [CS472: Data Science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19/homepage?authuser=0)
+* [Law of UI](https://lawsofux.com/)
  
